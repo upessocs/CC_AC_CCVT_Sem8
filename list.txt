@@ -1,0 +1,5 @@
+./
+./.git
+./Project Form (Pg1-AC, Pg2-Mentor).pdf
+./Project End-Term Report Format.docx
+./Project SRS Template (Mid Term).docx
